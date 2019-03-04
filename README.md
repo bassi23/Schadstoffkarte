@@ -1,6 +1,6 @@
 # Schadstoffkarte
 
-![alt text](https://github.com/bassi23/Schadstoffkarte/blob/master/Vorschau.png)
+![alt text](https://github.com/bassi23/Schadstoffkarte/blob/master/2.png)
 
 
 # To Do
@@ -9,7 +9,7 @@
 [ ]   Heatmap-Farbe nicht abhängig von Anzahl der Messpunkte an einem Ort, sondern von ihrer Gewichtung (Konzentration)<br />
 [ ]   Punktradius auf einem konstanten Wert beim zoomen halten<br />
 [ ]   Richtiger Zeitstempel in Graph (Punkte sind momentan äquidistant, obwohl nicht im gleichen Zeitabstand aufgenommen)<br />
-[ ]   Messwerte anzeigen, wenn man auf den jeweiligen Marker klickt<br />
+[x]   Messwerte anzeigen, wenn man auf den jeweiligen Marker klickt<br />
 [ ]   to do Liste erweitern<br />
 
 
