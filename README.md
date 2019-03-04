@@ -6,17 +6,17 @@
 # To Do
 
 ## Software
-[ ]  - Heatmap-Farbe nicht abhängig von Anzahl der Messpunkte an einem Ort, sondern von ihrer Gewichtung (Konzentration)
-[ ]  - Punktradius auf einem konstanten Wert beim zoomen halten.
-[ ]  - Richtiger Zeitstempel in Graph (Punkte sind momentan äquidistant, obwohl nicht im gleichen Zeitabstand aufgenommen)
-[ ]  - Messwerte anzeigen, wenn man auf den jeweiligen Marker klickt
-[ ]  - to do Liste erweitern
+[ ]   Heatmap-Farbe nicht abhängig von Anzahl der Messpunkte an einem Ort, sondern von ihrer Gewichtung (Konzentration)
+[ ]   Punktradius auf einem konstanten Wert beim zoomen halten.
+[ ]   Richtiger Zeitstempel in Graph (Punkte sind momentan äquidistant, obwohl nicht im gleichen Zeitabstand aufgenommen)
+[ ]   Messwerte anzeigen, wenn man auf den jeweiligen Marker klickt
+[ ]   to do Liste erweitern
 
 
 ## Hardware
-[ ]  - GPS - Genauigkeit verbessern
-[ ]  - Datenübertragung sicherstellen (schmiert manchmal ab)
-[ ]  - to do Liste erweitern
+[ ]   GPS - Genauigkeit verbessern
+[ ]   Datenübertragung sicherstellen (schmiert manchmal ab)
+[ ]   to do Liste erweitern
 
 
 # Verwendete Sensoren (aktiv)
