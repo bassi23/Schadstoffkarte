@@ -129,9 +129,9 @@ function graph(array) {
 function draw() {
   background(255);
   textSize(20);
-  text("Zeige an:", 20, 30);
-  text("Als", 20, 60);
-  text("Werte:", 20, 90);
+  text("Zeige an:", 60, 30);
+  text("Als", 60, 60);
+  text("Werte:", 60, 90);
   cnv.position(window.innerWidth / 2, 115);
   let auswahl = data.value();
   if (auswahl == "Temperatur") {
