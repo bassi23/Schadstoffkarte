@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js'></script>
+<script type='text/javascript' src='https://www.google.com/jsapi'></script>
+<script type='text/javascript' src='p5.min.js'></script>
+<script type='text/javascript' src='p5.dom.min.js'></script>
+<script type='text/javascript' src='sketch.js'></script>
+<script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAwS8bjXXECei9xlTnfCWF7Qh1KkZOLWOU&libraries=visualization&callback=initMap">
+</script>
+    <meta charset="utf-8">
+    <title>Heatmaps</title>
+    <style>
+      /* Always set the map height explicitly to define the size of the div
+       * element that contains the map. */
+       #map {
+         width: 50%;
+         height: 80%;
+       }
+      /* Optional: Makes the sample page fill the window. */
+      html, body {
+        height: 100%;
+        margin: 0;
+        padding: 0;
+      }
+
+    </style>
+  </head>
+
+  <body>
+        <h1>Schadstoffkarte</h1>
+        <p>Hier werden Sensordaten angezeigt. Auf der rechten Seite kannst du einstellen, was du sehen möchtest. </p>
+    <div id="map"></div>
+
+
+
+  </body>
+</html>
