@@ -1,6 +1,6 @@
 # Schadstoffkarte
 
-![alt text](https://github.com/bassi23/Schadstoffkarte/blob/master/Vorschau2.png)
+![alt text](https://github.com/bassi23/Schadstoffkarte/blob/master/Vorschau1.png)
 
 # Wie funktioniert das?
 
@@ -14,7 +14,7 @@ Das andere Programm ruft die Daten ab und stellt sie sowohl auf der Map, als auc
 ## Software
 [ ]   Heatmap-Farbe nicht abhängig von Anzahl der Messpunkte an einem Ort, sondern von ihrer Gewichtung (Konzentration)<br />
 [ ]   Punktradius auf einem konstanten Wert beim zoomen halten<br />
-[ ]   Richtiger Zeitstempel in Graph (Punkte sind momentan äquidistant, obwohl nicht im gleichen Zeitabstand aufgenommen)<br />
+[x]   Richtiger Zeitstempel in Graph (Punkte sind momentan äquidistant, obwohl nicht im gleichen Zeitabstand aufgenommen)<br />
 [x]   Messwerte anzeigen, wenn man auf den jeweiligen Marker klickt<br />
 [ ]   to do Liste erweitern<br />
 
