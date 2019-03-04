@@ -33,4 +33,5 @@
 
 ## inaktiv, in Planung
 
-- 
+- NO2
+- TVOC
