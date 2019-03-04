@@ -1,3 +1,3 @@
 # Schadstoffkarte
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/bassi23/Schadstoffkarte/blob/master/Vorschau.png)
