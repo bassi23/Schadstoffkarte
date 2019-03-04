@@ -2,6 +2,12 @@
 
 ![alt text](https://github.com/bassi23/Schadstoffkarte/blob/master/2.png)
 
+# Wie funktioniert das?
+
+Für das Projekt nutzen wir die Plattform "ThingSpeak" und den channel https://thingspeak.com/channels/697239 . Alle 30 Sekunden wird ein Messwert augenommen und an Thingspeak gesendet.
+Das andere Programm ruft die Daten ab und stellt sie sowohl auf der Map, als auch in dem Graphen dar.
+ 
+
 
 # To Do
 
