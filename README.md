@@ -1,6 +1,6 @@
 # Schadstoffkarte
 
-![alt text](https://github.com/bassi23/Schadstoffkarte/blob/master/Vorschau1.png)
+![alt text](https://github.com/bassi23/Schadstoffkarte/blob/master/Vorschau.png)
 
 # Wie funktioniert das?
 
