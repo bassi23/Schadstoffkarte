@@ -1,6 +1,11 @@
-# Schadstoffkarte
+# Schadstoffkarte - Vorschau
 
+## Heatmap
 ![alt text](https://github.com/bassi23/Schadstoffkarte/blob/master/Vorschau.png)
+
+## Alle Messdaten
+
+![alt text](https://github.com/bassi23/Schadstoffkarte/blob/master/Vorschau_Messdaten.png)
 
 # Wie funktioniert das?
 
@@ -16,12 +21,15 @@ Das andere Programm ruft die Daten ab und stellt sie sowohl auf der Map, als auc
 [ ]   Punktradius auf einem konstanten Wert beim zoomen halten<br />
 [x]   Richtiger Zeitstempel in Graph (Punkte sind momentan äquidistant, obwohl nicht im gleichen Zeitabstand aufgenommen)<br />
 [x]   Messwerte anzeigen, wenn man auf den jeweiligen Marker klickt<br />
+[x]   neue Kategorie "Messdaten" eingeführt<br />
+[x]   Kategorien "Über das Projekt" und "Setup" ergänzt<br />
+[ ]   Messdaten per Button als CSV speichern<br />
 [ ]   to do Liste erweitern<br />
 
 
 ## Hardware
 [ ]   GPS - Genauigkeit verbessern<br />
-[ ]   Datenübertragung sicherstellen (schmiert manchmal ab)<br />
+[x]   Datenübertragung sicherstellen (schmiert manchmal ab): Grund gefunden: 1) GPS Sensor ist kacke; 2) Powerbank kaputt<br />
 [ ]   to do Liste erweitern<br />
 
 
